@@ -180,13 +180,13 @@ if(minAge <= age) {
   console.log('enter');
 }
 //FIX - the decription says that the if expression should check if age is greater than or equal to minAge.
-//In the code block itself, the two variables are flipped. If that is fixxed, then the print to the console.log needs to be changed as well.
+//In the code block itself, the two variables are flipped. If that is fixed, then the print to the console.log needs to be changed as well.
 //Should be if(age >= minAge){
 console.log('enter');
 }
 //Since the age is now greater than or equal to minAge, the code block will now print 'enter' to the console.log if that is true.
 //The final fix is to change the console.log under the else expression. Since now that the condititon for the expression is if age is less than minAge, the print should now be 'no entry'.
-//else {
+//Should be else {
   console.log('no entry');
 }
 */
