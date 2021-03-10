@@ -49,7 +49,7 @@ if (name === 'Mary') {
 //Then, if the value of code is an exact match to 123 (which it is), then the code sets the value of the secret variable to 'super'.
 //Then, the code block multiples the value of code by 2 and sets the value of code to that new value.
 //If the value of code is greater than 250, then the value of secret is set to 'duper'.
-//Finally, the code block prints the value of secret to the console log.
+//Finally, the code block prints the value of secret to the console log. The value of secret being 'super'.
 
 //CODE
 /*
@@ -77,6 +77,7 @@ console.log(secret)
 //Otherwise, if isStudent is true, then the code prints 'Welcome to Prime!' to the console log.
 //Otherise, the code prints 'How about the weather?' to the console log.
 //Each "branch" of the if-else statement is mutually exclusive from the others. So, even if the first if statement is true, it will only print that statement to the console log. Even though isStudent being true also fullfills the condition for the third statement.
+//The printed result in the console log for this problem would be 'Welcome to Prime!'
 
 //CODE
 /*
